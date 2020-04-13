@@ -9,7 +9,7 @@ The dataset is sourced from UCI Machine Learning Repository. The Boston housing 
 <br />
 Source : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
 <br />
-## Language Used
+## Languages Used
 Python
 <br />
 ## Machine Learning Pipeline
