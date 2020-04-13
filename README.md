@@ -6,7 +6,7 @@ We will use several ML algorithms and evaluate their performance and predictive 
 <br />The dataset is sourced from UCI Machine Learning Repository. The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. Note that every record will describe a Boston suburb or a town
 <br />
 ## About the Dataset
->The dataset is sourced from UCI Machine Learning Repository. The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. Note that every record will describe a Boston suburb or a town
+The dataset is sourced from UCI Machine Learning Repository. The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. Note that every record will describe a Boston suburb or a town
 <br />
 Source : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
 <br />
