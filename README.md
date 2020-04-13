@@ -7,4 +7,8 @@ We will use several ML algorithms and evaluate their performance and predictive 
 <br />
 <br /> Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
 <br />
-<br /> Language Used: Python
+## Language Used
+Python
+<br />
+## Machine Learning Pipeline
+Importing all required libraries > Loading/Importing the dataset > Data Exploration > Splitting the data into training and test datasets > Model Development > Model Comparison/Interpreting the results
