@@ -1,4 +1,5 @@
 # Predicting House Prices - Advanced-Regression
+## Introduction
 In this repository, our goal is to predict the monetary value of homes in Boston suburbs
 <br />
 We will use several ML algorithms and evaluate their performance and predictive power in order to come up with a 'best fit' model trained on data collected from homes located in the suburbans of Boston. 
